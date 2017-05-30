@@ -1,2 +1,0 @@
-# springprj
-Spring Project
